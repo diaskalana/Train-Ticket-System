@@ -1,6 +1,6 @@
 # Online Train Ticket System
 
-This project is an implementation of an Online Train Ticket System using Java, JSP, and Servlets. It was developed as part of the 2nd-year 1st-semester coursework for the Object-Oriented Programming (OOP) module at Sri Lanka Institute of Information Technology (SLIIT).
+This project is an implementation of an Online Train Ticket System using Java, JSP, and Servlets.
 
 ![localhost-8090-Train_Ticket_System-Dashboard-jsp](https://github.com/diaskalana/Train-Ticket-System/assets/74653324/f68007dc-0d9e-44af-89bc-bef4c84d287c)
 
@@ -42,9 +42,9 @@ To run this project locally:
 
 ## Contributors
 
-- D.D.K.S.Dias (IT21220760) - Project Lead 
-- De Silva K.A. (IT21212536)
-- Prasangi W.K.K.I. (IT21215674)
-- Yapa Y.A.I.D. (IT21214134)
+- D.D.K.S.Dias 
+- De Silva K.A. 
+- Prasangi W.K.K.I. 
+- Yapa Y.A.I.D.
 
 Feel free to contribute to this project by forking the repository and submitting pull requests for enhancements or bug fixes.
